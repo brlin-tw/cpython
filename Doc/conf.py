@@ -371,7 +371,7 @@ latex_elements = {
     # The paper size ('letter' or 'a4').
     'papersize': 'letter',
     # The font size ('10pt', '11pt' or '12pt').
-    'pointsize': '10pt',
+    'pointsize': '12pt',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
