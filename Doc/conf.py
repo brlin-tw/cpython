@@ -369,7 +369,7 @@ latex_elements = {
 \setcounter{tocdepth}{2}
 ''',
     # The paper size ('letter' or 'a4').
-    'papersize': 'a4',
+    'papersize': 'letter',
     # The font size ('10pt', '11pt' or '12pt').
     'pointsize': '10pt',
 }
